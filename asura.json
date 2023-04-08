@@ -11,7 +11,7 @@
     "changelog":"added the separator for the search to work when you have more than two words",
     "moduleType": "Image",
     "baseURL": "https://asurascanstr.com/",
-    "moduleDeveloperSite": "https://asurascanstr.com/,
+    "moduleDeveloperSite": "https://asurascanstr.com/",
     "UpdateSite": "https://raw.githubusercontent.com/Scorwx/zetsumodule/main/asura.json",
     "preferedServer": "",
     "preferedDownloadServer": "",
